@@ -8,7 +8,6 @@ logo:
   mobile: images/logo/logoA00.png
   desktop: images/logo/logoA00.png
   desktop_height: 44px
-  mobile_width: 10em
 seo:
   meta_og_title: Jekyll Serif Theme
   meta_og_type: website
