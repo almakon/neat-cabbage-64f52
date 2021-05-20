@@ -16,9 +16,6 @@ seo:
     https://raw.githubusercontent.com/almakon/neat-cabbage-64f52/master/screenshots/tn.png
   meta_og_description: >-
     Corporate Video Production
-  meta_twitter_card: summary
-  meta_twitter_site: '@zerostaticio'
-  meta_twitter_creator: '@zerostaticio'
 collections:
   services:
     output: true
