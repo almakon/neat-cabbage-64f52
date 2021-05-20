@@ -2,7 +2,7 @@
 title: Video Production Studio
 layout: home
 description: >-
-  Видеографски УСЛУГИ ЗА БИЗНЕСА
+  Видеографски услуги за бизнеса
 intro_image: assets/images/video-production.png
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
