@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-Представяне на компанията си навсякъде - в уеб сайта, в социалните мрежи, в презентации пред клиенти и партньори.
+Представяне на компанията ви
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
