@@ -2,8 +2,7 @@
 title: Video Production Studio
 layout: home
 description: >-
-  We create compelling content that captivates audiences, inspires action and
-  drives results.
+  ВИДЕОГРАФСКИ УСЛУГИ ЗА БИЗНЕСА
 intro_image: assets/images/video-production.png
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
