@@ -10,9 +10,4 @@ intro_image_hide_on_mobile: true
 ---
 # Video Production Studio
 
-We create compelling content that captivates audiences, inspires action and drives results. 
-              
-                
-                  
-                    [
-                     ](https://fast.wistia.net/embed/iframe/zwtpk8kccx?autoPlay=true\&controlsVisibleOnLoad=true\&playButton=false\&playerColor=e4087d\&popover=true\&version=v1\&videoHeight=360\&videoWidth=640)
+We create compelling content that captivates audiences, inspires action, and drives results.
