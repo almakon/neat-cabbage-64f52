@@ -6,7 +6,7 @@ weight: 2
 layout: service
 ---
 
-Новата ни услуга е професионално излъчване на живо в различни платформи като Facebook и Youtube
+Професионално излъчване на живо в различни платформи като Facebook и Youtube
 
 ## Inter pectore totidem
 
