@@ -5,8 +5,8 @@ google_analytics_id: ''
 homepage:
   show_call_box: true
 logo:
-  mobile: images/logo/logoA00.svg
-  desktop: images/logo/logoA00.svg
+  mobile: images/logo/logoA00.png
+  desktop: images/logo/logoA00.png
   desktop_height: 36px
 footer:
   copyright_text: >-
