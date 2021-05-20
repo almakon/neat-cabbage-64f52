@@ -5,8 +5,7 @@ featured: true
 weight: 6
 layout: service
 ---
-
-Това са кратки видеа, в които представяш на потенциалните си клиенти  един продукт или цяла продуктова гама.
+Представяне на продукт
 
 ## Patulis Veneris est expulit adversaque magnum mediaque
 
